@@ -10,6 +10,6 @@ To learn how to install and use this theme check out the [installation guide](ht
 If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
 -->
 
-### Currently studying Computer Sciente as a third year student in University of Granada.
+#### Currently studying Computer Sciente as a third year student in University of Granada.
 
 📍 **Granada, Spain.**
