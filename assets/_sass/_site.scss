@@ -432,6 +432,7 @@ canvas {
     margin: 10px 0;
     padding-top: 0;
     line-height: 24px;
+    display: flex;
     &:first-of-type {
       padding-top: 35px;
     }
