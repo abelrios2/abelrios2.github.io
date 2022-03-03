@@ -10,13 +10,7 @@ To learn how to install and use this theme check out the [installation guide](ht
 If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
 -->
 
-#### Currently studying Computer Science as a third year student at University of Granada.
-
-
-         
-        
-        
-         
+#### Currently studying Computer Science as a third year student at University of Granada.         
 
 
 
@@ -29,12 +23,16 @@ If you have a question, find a bug, or just want to say hi, please open an [issu
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 )
-<!--![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)-->
 
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 ____
 
+
+
+
+
+
+
 📍 **Granada, Spain.**
- 
