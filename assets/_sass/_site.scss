@@ -232,7 +232,6 @@ canvas {
         padding-right: 10px;
         white-space: nowrap;
         text-align: center;
-        margin-top: 60px;
         strong {
           color: rgba($white, 0.7);
         }
@@ -240,6 +239,7 @@ canvas {
           font-size: 20px;
           line-height: 33px;
           color: darken($white, 40%);
+          margin-top: 60px
         }
       }
       &:after {
