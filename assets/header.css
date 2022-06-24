@@ -61,6 +61,7 @@ header p{
     width: 0;
     animation: typing 2.5s steps(30, end) forwards,
     blink 1.2s infinite;
+    font-size: 15px;
 }
 
 .typeoutcontainer {
