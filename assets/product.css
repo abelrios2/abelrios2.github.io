@@ -13,6 +13,10 @@
     transition: 0.5s;
 }
 
+#cerebro-img{
+    transform: scale(0.7);
+}
+
 .producto:hover {
     transform: scale(1.08);
 }
