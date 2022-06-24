@@ -56,7 +56,7 @@ header p{
     overflow: hidden;
     padding-right: 5px;
     border-right: .15em solid #a09abc;
-    font-size: large;
+    /*font-size: large;*/
     white-space: nowrap;
     width: 0;
     animation: typing 2.5s steps(30, end) forwards,
