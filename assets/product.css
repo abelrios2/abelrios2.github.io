@@ -13,7 +13,7 @@
     transition: 0.5s;
 }
 
-#cerebro-img{
+#cerebro-img, #skull-img, #foot-img{
     transform: scale(0.7);
 }
 
