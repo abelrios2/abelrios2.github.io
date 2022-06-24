@@ -1,0 +1,11 @@
+Model Information:
+* title:	Right Foot Bones
+* source:	https://sketchfab.com/3d-models/right-foot-bones-e80b6eb57bdb4eeea749fc23409e8022
+* author:	IRevans (https://sketchfab.com/IRevans)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Right Foot Bones" (https://sketchfab.com/3d-models/right-foot-bones-e80b6eb57bdb4eeea749fc23409e8022) by IRevans (https://sketchfab.com/IRevans) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
