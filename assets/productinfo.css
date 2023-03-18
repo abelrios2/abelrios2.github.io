@@ -30,6 +30,8 @@
 	justify-content: center;
 	flex-direction: row;
 	flex-wrap: wrap;
+	width: 100%;
+	padding: 2%;
 
 }
 
@@ -55,10 +57,16 @@ article h4 {
 
 /* Imagen Producto */
 .img-flex{
-	display: flex;
+	/*display: flex;
 	justify-content: center;
 	flex-direction: row;
 	margin-top: 1%;
+	width: 75%;*/
+	display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    justify-content: center;
 }
 
 
@@ -71,18 +79,9 @@ article h4 {
 	position: relative;
 }
 
-.image-container figcaption {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	font-weight: bolder;
-	box-sizing: border-box;
-	border-bottom-left-radius: 10px;
-	width: 100%;
-	padding: 15px;
-	color: white;
-	text-align: center;
-	background: rgba(0, 0, 0, 0.6);
+.description-image{
+	width: 450px;
+	height: 300px;
 }
 
 

@@ -7,8 +7,9 @@
     justify-content: left;
     background-color: #52885b;
     overflow: auto;
-    width: 100%;
+    width: 88%;
     border-radius: 20px;
+    margin-left: 6%;
 }
 
 /* Texto del menú principal*/
